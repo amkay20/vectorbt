@@ -28,8 +28,20 @@ Note: you must run the notebook to play with the widgets.
 
 - [Stop Loss, Trailing Stop, or Take Profit? 2 Million Backtests Shed Light](https://polakowo.medium.com/stop-loss-trailing-stop-or-take-profit-2-million-backtests-shed-light-dde23bda40be)
 - [SuperFast SuperTrend](https://polakowo.medium.com/superfast-supertrend-6269a3af0c2a?source=friends_link&sk=2e7e3846b72a9e2283ade8b210664d1c)
-- [The PyQuant Newsletter](https://pyquantnews.com/the-pyquant-newsletter/)
+- [The PyQuant Newsletter](https://pyquantnews.com/the-pyquant-newsletter/) :newspaper2:
     - [1,000,000 backtest simulations in 20 seconds](https://pyquantnews.com/1000000-backtest-simulations-20-seconds-vectorbt/)
+
+### Books
+
+- [Python for Algorithmic Trading Cookbook: Recipes for designing, building, and deploying algorithmic trading strategies with Python](https://www.amazon.com/Python-Algorithmic-Trading-Cookbook-algorithmic/dp/1835084702/)
+
+=== "Cover"
+
+    ![](/assets/misc/AlgoTradingCookbook.jpg)
+
+=== "Back Cover"
+
+    ![](/assets/misc/AlgoTradingCookbookBack.jpg)
 
 ### Getting Help
 
